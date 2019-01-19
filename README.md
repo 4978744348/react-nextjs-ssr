@@ -1,2 +1,2 @@
 # react-nextjs-ssr
-https://out-j2du3gdoh.now.sh/
+https://kusa4es-blog.now.sh
